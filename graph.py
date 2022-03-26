@@ -2,7 +2,7 @@ import os, json
 import pandas as pd
 import matplotlib.pyplot as plt
 
-path_to_json = '/home/stemnic/scripts/amex_exchange'
+path_to_json = '/home/stemnic/scripts/amex_exchange/data'
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
 jsons_data_eur = pd.DataFrame(columns=['date', 'percentage'])
