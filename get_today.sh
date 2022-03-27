@@ -17,3 +17,4 @@ curl 'https://www.americanexpress.com/gemservices/gcdt/ecbrates/?market=NO' \
   -H 'referer: https://www.americanexpress.com/no/legal/fx-ecb-sammenligning/?inav=no_footer_fx_ecb_sammenligning' \
   -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
   --compressed > /home/stemnic/scripts/amex_exchange/data/$(date --iso-8601).json
+cd /home/stemnic/scripts/amex_exchange/ && git add . && git commit -m "Data for $(date --iso-8601)" && git push
