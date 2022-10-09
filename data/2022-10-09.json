@@ -1,0 +1,204 @@
+[ {
+  "settlementCurrency" : "NOK",
+  "market" : "NO",
+  "consumer" : [ {
+    "submissionCurrencyCode" : "USD",
+    "percentageVariance" : "1.674"
+  }, {
+    "submissionCurrencyCode" : "JPY",
+    "percentageVariance" : "1.850"
+  }, {
+    "submissionCurrencyCode" : "BGN",
+    "percentageVariance" : "1.735"
+  }, {
+    "submissionCurrencyCode" : "CZK",
+    "percentageVariance" : "1.722"
+  }, {
+    "submissionCurrencyCode" : "DKK",
+    "percentageVariance" : "1.760"
+  }, {
+    "submissionCurrencyCode" : "GBP",
+    "percentageVariance" : "1.815"
+  }, {
+    "submissionCurrencyCode" : "HUF",
+    "percentageVariance" : "1.564"
+  }, {
+    "submissionCurrencyCode" : "PLN",
+    "percentageVariance" : "1.662"
+  }, {
+    "submissionCurrencyCode" : "RON",
+    "percentageVariance" : "1.671"
+  }, {
+    "submissionCurrencyCode" : "SEK",
+    "percentageVariance" : "1.921"
+  }, {
+    "submissionCurrencyCode" : "CHF",
+    "percentageVariance" : "1.719"
+  }, {
+    "submissionCurrencyCode" : "ISK",
+    "percentageVariance" : "1.998"
+  }, {
+    "submissionCurrencyCode" : "NOK",
+    "percentageVariance" : "0.000"
+  }, {
+    "submissionCurrencyCode" : "HRK",
+    "percentageVariance" : "1.701"
+  }, {
+    "submissionCurrencyCode" : "RUB",
+    "percentageVariance" : "-46.951"
+  }, {
+    "submissionCurrencyCode" : "TRY",
+    "percentageVariance" : "1.815"
+  }, {
+    "submissionCurrencyCode" : "AUD",
+    "percentageVariance" : "1.737"
+  }, {
+    "submissionCurrencyCode" : "BRL",
+    "percentageVariance" : "1.580"
+  }, {
+    "submissionCurrencyCode" : "CAD",
+    "percentageVariance" : "1.674"
+  }, {
+    "submissionCurrencyCode" : "CNY",
+    "percentageVariance" : "1.926"
+  }, {
+    "submissionCurrencyCode" : "HKD",
+    "percentageVariance" : "1.956"
+  }, {
+    "submissionCurrencyCode" : "IDR",
+    "percentageVariance" : "2.009"
+  }, {
+    "submissionCurrencyCode" : "ILS",
+    "percentageVariance" : "1.744"
+  }, {
+    "submissionCurrencyCode" : "INR",
+    "percentageVariance" : "1.888"
+  }, {
+    "submissionCurrencyCode" : "KRW",
+    "percentageVariance" : "2.366"
+  }, {
+    "submissionCurrencyCode" : "MXN",
+    "percentageVariance" : "1.752"
+  }, {
+    "submissionCurrencyCode" : "MYR",
+    "percentageVariance" : "1.896"
+  }, {
+    "submissionCurrencyCode" : "NZD",
+    "percentageVariance" : "1.712"
+  }, {
+    "submissionCurrencyCode" : "PHP",
+    "percentageVariance" : "1.904"
+  }, {
+    "submissionCurrencyCode" : "SGD",
+    "percentageVariance" : "1.884"
+  }, {
+    "submissionCurrencyCode" : "THB",
+    "percentageVariance" : "1.853"
+  }, {
+    "submissionCurrencyCode" : "ZAR",
+    "percentageVariance" : "1.759"
+  }, {
+    "submissionCurrencyCode" : "EUR",
+    "percentageVariance" : "1.737"
+  } ],
+  "commercial" : [ {
+    "submissionCurrencyCode" : "USD",
+    "percentageVariance" : "0.874"
+  }, {
+    "submissionCurrencyCode" : "JPY",
+    "percentageVariance" : "1.050"
+  }, {
+    "submissionCurrencyCode" : "BGN",
+    "percentageVariance" : "0.935"
+  }, {
+    "submissionCurrencyCode" : "CZK",
+    "percentageVariance" : "0.922"
+  }, {
+    "submissionCurrencyCode" : "DKK",
+    "percentageVariance" : "0.960"
+  }, {
+    "submissionCurrencyCode" : "GBP",
+    "percentageVariance" : "1.015"
+  }, {
+    "submissionCurrencyCode" : "HUF",
+    "percentageVariance" : "0.764"
+  }, {
+    "submissionCurrencyCode" : "PLN",
+    "percentageVariance" : "0.862"
+  }, {
+    "submissionCurrencyCode" : "RON",
+    "percentageVariance" : "0.871"
+  }, {
+    "submissionCurrencyCode" : "SEK",
+    "percentageVariance" : "1.121"
+  }, {
+    "submissionCurrencyCode" : "CHF",
+    "percentageVariance" : "0.919"
+  }, {
+    "submissionCurrencyCode" : "ISK",
+    "percentageVariance" : "1.198"
+  }, {
+    "submissionCurrencyCode" : "NOK",
+    "percentageVariance" : "0.000"
+  }, {
+    "submissionCurrencyCode" : "HRK",
+    "percentageVariance" : "0.901"
+  }, {
+    "submissionCurrencyCode" : "RUB",
+    "percentageVariance" : "-47.751"
+  }, {
+    "submissionCurrencyCode" : "TRY",
+    "percentageVariance" : "1.015"
+  }, {
+    "submissionCurrencyCode" : "AUD",
+    "percentageVariance" : "0.937"
+  }, {
+    "submissionCurrencyCode" : "BRL",
+    "percentageVariance" : "0.780"
+  }, {
+    "submissionCurrencyCode" : "CAD",
+    "percentageVariance" : "0.874"
+  }, {
+    "submissionCurrencyCode" : "CNY",
+    "percentageVariance" : "1.126"
+  }, {
+    "submissionCurrencyCode" : "HKD",
+    "percentageVariance" : "1.156"
+  }, {
+    "submissionCurrencyCode" : "IDR",
+    "percentageVariance" : "1.209"
+  }, {
+    "submissionCurrencyCode" : "ILS",
+    "percentageVariance" : "0.944"
+  }, {
+    "submissionCurrencyCode" : "INR",
+    "percentageVariance" : "1.088"
+  }, {
+    "submissionCurrencyCode" : "KRW",
+    "percentageVariance" : "1.566"
+  }, {
+    "submissionCurrencyCode" : "MXN",
+    "percentageVariance" : "0.952"
+  }, {
+    "submissionCurrencyCode" : "MYR",
+    "percentageVariance" : "1.096"
+  }, {
+    "submissionCurrencyCode" : "NZD",
+    "percentageVariance" : "0.912"
+  }, {
+    "submissionCurrencyCode" : "PHP",
+    "percentageVariance" : "1.104"
+  }, {
+    "submissionCurrencyCode" : "SGD",
+    "percentageVariance" : "1.084"
+  }, {
+    "submissionCurrencyCode" : "THB",
+    "percentageVariance" : "1.053"
+  }, {
+    "submissionCurrencyCode" : "ZAR",
+    "percentageVariance" : "0.959"
+  }, {
+    "submissionCurrencyCode" : "EUR",
+    "percentageVariance" : "0.937"
+  } ]
+} ]
